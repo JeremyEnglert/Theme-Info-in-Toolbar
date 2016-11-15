@@ -2,7 +2,7 @@
 	
 /*
 Plugin Name: Theme Info in Toolbar
-Plugin URI: http:/jointswp.com
+Plugin URI: https://github.com/JeremyEnglert/Theme-Info-in-Toolbar
 Description: A plugin to display the theme name and version number in the admin toolbar area.
 Version: 1.0
 Author: Jeremy Englert
