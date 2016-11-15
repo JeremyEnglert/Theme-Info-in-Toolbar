@@ -1,6 +1,5 @@
 === Theme Info in Toolbar ===
-Contributors: JeremyEnglert
-Donate link: 
+Contributors: jeremyenglert, materiell
 Tags: developer, admin, administration, toolbar
 Requires at least: 3.3
 Tested up to: 4.6.1
